@@ -31,7 +31,7 @@ from utils import visualization_utils as vis_util
 
 # Name of the directory containing the object detection module we're using
 MODEL_NAME = 'trained-inference-graphs' #'inference_graph'
-IMAGE_NAME = '15-07-18-upload2018-03-14_10-39-42-248143_leftImg8bit.jpg'
+IMAGE_NAME = 'image2.jpg'
 
 # Grab path to current working directory
 CWD_PATH = os.getcwd()
