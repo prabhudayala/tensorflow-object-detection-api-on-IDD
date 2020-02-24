@@ -1,0 +1,74 @@
+item {
+    id: 1
+    name: 'truck'
+}
+
+item {
+    id: 2
+    name: 'vehicle fallback'
+}
+
+item {
+    id: 3
+    name: 'car'
+}
+
+item {
+    id: 4
+    name: 'motorcycle'
+}
+
+item {
+    id: 5
+    name: 'rider'
+}
+
+item {
+    id: 6
+    name: 'person'
+}
+
+item {
+    id: 7
+    name: 'bus'
+}
+
+item {
+    id: 8
+    name: 'bicycle'
+}
+
+item {
+    id: 9
+    name: 'autorickshaw'
+}
+
+item {
+    id: 10
+    name: 'animal'
+}
+
+item {
+    id: 11
+    name: 'traffic sign'
+}
+
+item {
+    id: 12
+    name: 'train'
+}
+
+item {
+    id: 13
+    name: 'traffic light'
+}
+
+item {
+    id: 14
+    name: 'caravan'
+}
+
+item {
+    id: 15
+    name: 'trailer'
+}

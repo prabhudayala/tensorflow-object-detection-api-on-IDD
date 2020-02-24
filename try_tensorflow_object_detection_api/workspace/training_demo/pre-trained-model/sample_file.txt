@@ -1,0 +1,1 @@
+This file is here to make folder copy possible in git.
