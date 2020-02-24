@@ -1,1 +1,1 @@
-# tensorflow-object-detection-api-on-IDD
+# Sample folder structure for tensorflow object detection api
